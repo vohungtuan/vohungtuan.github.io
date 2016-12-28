@@ -1,0 +1,39 @@
+Summary
+- Designing and implementing Continuous Integration pipelines for a range of projects and environments using Jenkins.
+- Maintaining and enhancing of existing build scripts (Apache Ant and QuickBuild).
+- Developing and applying the latest updates and security patches of the ISC BIND 9.8.x, 9.9.x, 9.10.x into Nokia DNS servers.
+- Managing the source code management software IBM Rational ClearCase for whole project.
+- Developing and customizing the ELK (Elastichsearch, Logstash, Kibana) to monitor the DNS, DHCP servers logs.
+Objective
+Looking for a professional and friendly environment where I can maximize my contribution, and want to become a senoir DevOps Engineer.
+Skills
+- Strong knowledge: IBM ClearCase, Jenkins, Shell, Git, Apache Ant, QuickBuild, ISC BIND DNS, Windows, Linux, Solaris, Docker.
+- Can read code, understand and debug: C, C++, Python, Java, JavaScript, Elasticsearch, Logstash, Kibana, Maven, Gradle, Hg, SonarQube, Tomcat, SQl, Sybase, Oracle, Microsoft Dynamics CRM.
+Experience
+December 2011 – present     VitalQIP IP Address Management
+TMA Solutions - Senior Software Engineer
+- Project Description: Alcatel-Lucent VitalQIP™ DNS/DHCP IP Address Management Software is a market-leading solution for automating IP address management services across networks. It streamlines management and cuts administrative costs for enterprises, government agencies, and service providers worldwide.
+- Project Size: 40 Developers + 20 QAs.
+- Role(s): 
+- Managing source code control, build systems and the continuous integration tools
+- Developing the DNS software
+- Developing the ELK stack software to monitor the DNS, DHCP logs.
+- Achievements: was able to learn existing build scripts, proposed a method to test data integrity that later turned out to be life-saver for this project.
+25 October 2015     USA onsite experience
+- Set up new build machines
+- Maintaining the NetApp servers
+- Maintaining the QuickBuild servers
+- Customers support
+Education
+2007 to 2011    Can Tho University
+Bachelor of Software Engineering
+Languages
+- English: TOEIC 730 (internal company test)
+- Vietnamese: Native
+Contact
+- Mobile: +84 1277 400 785
+- Skype: vohungtuan102
+- Email: vohungtuan@gmail.com
+- GitHub: https://github.com/nguoianphu
+- StackOverFlow: http://stackoverflow.com/users/691530/tuan
+
